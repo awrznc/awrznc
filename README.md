@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <h3>🦀 awrznc 🦐</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=awrznc&show_icons=true&hide_title=true" />
+</div>
+
 
 <!--
 **awrznc/awrznc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
