@@ -1,7 +1,7 @@
 <div align="center">
   <h3>🦀 awrznc 🦐</h3>
   <a target="_blank" href="https://qiita.com/awrznc">Qiita</a> •
-  <a target="_blank" href="https://twitter.com/kouchairo0">Twitter</a>
+  <a target="_blank" href="https://twitter.com/kouchairo0">Twitter</a> •
   <a target="_blank" href="https://connpass.com/user/awrznc/">connpass</a>
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=awrznc&show_icons=true&hide_title=true" />
